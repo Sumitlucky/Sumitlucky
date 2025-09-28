@@ -12,6 +12,18 @@
 
 ---
 
+## 📜 Certificates  
+
+### 🎓 Full Stack Developer Program — Great Learning  
+
+🔗 [**View & Verify Certificate**](https://www.mygreatlearning.com/certificate/VPBRNXWG)  
+
+<p align="center">
+  <img src="certificate.pdf" alt="Full Stack Developer Certificate" width="600px" />
+</p>
+
+---
+
 ## 🚀 Projects
 
 ### 🛒 [Amazon Clone](https://github.com/sumitlucky/amazon-clone)
