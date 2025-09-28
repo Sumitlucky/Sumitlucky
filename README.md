@@ -15,11 +15,21 @@
 ## 📜 Certificates  
 
 ### 🎓 Full Stack Developer Program — Great Learning  
-
 🔗 [**View & Verify Certificate**](https://www.mygreatlearning.com/certificate/VPBRNXWG)  
 
 <p align="center">
   <img src="certificate.pdf" alt="Full Stack Developer Certificate" width="600px" />
+</p>
+
+---
+
+### ☁️ Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate  
+📅 **Issued:** May 29, 2024  
+⏳ **Valid Until:** May 29, 2026  
+🔗 [**Certificate ID: 100669217OCI23AIFCA**](eCertificate.pdf)  
+
+<p align="center">
+  <img src="eCertificate.pdf" alt="Oracle Cloud Certificate" width="600px" />
 </p>
 
 ---
