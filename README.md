@@ -37,11 +37,13 @@
 ---
 
 ### 🖥️ C++ Programming Certificate — GeeksforGeeks  
-🔗 [**View Certificate**](https://github.com/Sumitlucky/Sumitlucky/raw/main/geekforgeeks.pdf)  
+🔗 [**View Certificate (PDF)**](https://github.com/Sumitlucky/Sumitlucky/raw/main/geekforgeeks.pdf)  
 
-<p align="center">
+<!-- Agar tum PDF ko PNG/JPG me convert karke upload karoge (jaise geekforgeeks.png), toh niche image dikh jayega -->
+<!-- Example: -->
+<!-- <p align="center">
   <img src="https://github.com/Sumitlucky/Sumitlucky/raw/main/geekforgeeks.png" alt="GeeksforGeeks C++ Certificate" width="600px" />
-</p>
+</p> -->
 
 ---
 
