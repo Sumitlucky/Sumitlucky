@@ -1,6 +1,6 @@
-<!-- Background Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/q6fL9hp.gif" alt="Coding Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Coding Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar Singh</h1>
@@ -20,10 +20,10 @@
 ## 📜 Certificates  
 
 ### 🥇 GeeksforGeeks — C++ Skill Upgrade Certificate  
-🔗 [**View Certificate (PDF)**](https://github.com/Sumitlucky/Sumitlucky/raw/main/geekforgeeks.pdf)  
+🔗 [**View Certificate (PDF)**](https://github.com/Sumitlucky/Sumitlucky/blob/main/geekforgeeks.pdf)  
 
 <p align="center">
-  <img src="https://github.com/Sumitlucky/Sumitlucky/raw/main/geekforgeeks.png" alt="GeeksforGeeks C++ Certificate" width="600px" />
+  <img src="https://github.com/Sumitlucky/Sumitlucky/blob/main/geekforgeeks.pdf" alt="GeeksforGeeks Certificate" width="600px" />
 </p>
 
 ---
@@ -32,18 +32,17 @@
 🔗 [**View & Verify Certificate**](https://www.mygreatlearning.com/certificate/VPBRNXWG)  
 
 <p align="center">
-  <img src="https://github.com/Sumitlucky/Sumitlucky/raw/main/certificate1.png" alt="Full Stack Developer Certificate" width="600px" />
+  <img src="https://raw.githubusercontent.com/Sumitlucky/Sumitlucky/main/certificate1.png" alt="Full Stack Developer Certificate" width="600px" />
 </p>
 
 ---
 
 ### ☁️ Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate  
-📅 **Issued:** May 29, 2024  
-⏳ **Valid Until:** May 29, 2026  
-🔗 [**Certificate ID: 100669217OCI23AIFCA**](https://github.com/Sumitlucky/Sumitlucky/raw/main/eCertificate.pdf)  
+📅 **Issued:** May 29, 2024 | ⏳ **Valid Until:** May 29, 2026  
+🔗 [**View Certificate (PDF)**](https://raw.githubusercontent.com/Sumitlucky/Sumitlucky/main/eCertificate.pdf)  
 
 <p align="center">
-  <img src="https://github.com/Sumitlucky/Sumitlucky/raw/main/eCertificate.png" alt="Oracle Cloud Certificate" width="600px" />
+  <img src="https://raw.githubusercontent.com/Sumitlucky/Sumitlucky/main/eCertificate.png" alt="Oracle Cloud Certificate" width="600px" />
 </p>
 
 ---
