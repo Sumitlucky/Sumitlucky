@@ -29,20 +29,20 @@
 ---
 
 ### 🎓 Full Stack Developer Program — Great Learning  
-🔗 [**View & Verify Certificate**](https://www.mygreatlearning.com/certificate/VPBRNXWG)  
+🔗 [**View & Verify Certificate**](https://github.com/Sumitlucky/Sumitlucky/blob/main/certificate.pdf)  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sumitlucky/Sumitlucky/main/certificate1.png" alt="Full Stack Developer Certificate" width="600px" />
+  <img src="https://githubusercontent.com/Sumitlucky/Sumitlucky/main/certificate1.png" alt="Full Stack Developer Certificate" width="600px" />
 </p>
 
 ---
 
 ### ☁️ Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate  
 📅 **Issued:** May 29, 2024 | ⏳ **Valid Until:** May 29, 2026  
-🔗 [**View Certificate (PDF)**](https://raw.githubusercontent.com/Sumitlucky/Sumitlucky/main/eCertificate.pdf)  
+🔗 [**View Certificate (PDF)**](https://githubusercontent.com/Sumitlucky/Sumitlucky/main/eCertificate.pdf)  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sumitlucky/Sumitlucky/main/eCertificate.png" alt="Oracle Cloud Certificate" width="600px" />
+  <img src="https://githubusercontent.com/Sumitlucky/Sumitlucky/main/eCertificate.png" alt="Oracle Cloud Certificate" width="600px" />
 </p>
 
 ---
