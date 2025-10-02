@@ -1,10 +1,10 @@
-<!-- Background banner -->
-![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<!-- Reliable background/banner image -->
+![HeaderBanner](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar Singh</h1>
 <h3 align="center">A passionate Software Engineer and Machine Learning Enthusiast from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/0f16a118-5609-432b-95e6-36bfeebc6a52" />
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Sumitlucky/Sumitlucky/main/profile-banner.png" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sumitlucky&label=Profile%20views&color=0e75b6&style=flat" alt="sumitlucky" /> 
@@ -18,11 +18,11 @@
 ## 📜 Certificates  
 
 ### 🖥️ C++ Programming Certificate — GeeksforGeeks  
-🔗 [**View Certificate (PDF)**](https://github.com/Sumitlucky/Sumitlucky/raw/main/geekforgeeks.pdf)  
+🔗 [**View Certificate (PDF)**](https://raw.githubusercontent.com/Sumitlucky/Sumitlucky/main/geekforgeeks.pdf)
 
 <p align="center">
-  <!-- Agar aapne geekforgeeks.png upload kiya hoga to image dikh jaayega -->
-  <img src="https://github.com/Sumitlucky/Sumitlucky/raw/main/geekforgeeks.png" alt="GeeksforGeeks Certificate" width="600px" />
+<!-- If you uploaded geekforgeeks.png to your repo root, this will show. Otherwise this img tag will 404 silently (browser console) -->
+<img src="https://raw.githubusercontent.com/Sumitlucky/Sumitlucky/main/geekforgeeks.png" alt="GeeksforGeeks Certificate" width="600px" />
 </p>
 
 ---
@@ -31,17 +31,18 @@
 🔗 [**View & Verify Certificate**](https://www.mygreatlearning.com/certificate/VPBRNXWG)  
 
 <p align="center">
-  <img src="certificate.pdf" alt="Full Stack Developer Certificate" width="600px" />
+  <!-- If you have certificate image uploaded, replace path accordingly -->
+  <img src="https://raw.githubusercontent.com/Sumitlucky/Sumitlucky/main/certificate.png" alt="Full Stack Developer Certificate" width="600px" />
 </p>
 
 ---
 
 ### ☁️ Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate  
 📅 **Issued:** May 29, 2024 | ⏳ **Valid Until:** May 29, 2026  
-🔗 [**Certificate ID: 100669217OCI23AIFCA**](eCertificate.pdf)  
+🔗 [**Certificate ID: 100669217OCI23AIFCA (PDF)**](https://raw.githubusercontent.com/Sumitlucky/Sumitlucky/main/eCertificate.pdf)  
 
 <p align="center">
-  <img src="eCertificate.pdf" alt="Oracle Cloud Certificate" width="600px" />
+  <img src="https://raw.githubusercontent.com/Sumitlucky/Sumitlucky/main/eCertificate.png" alt="Oracle Cloud Certificate" width="600px" />
 </p>
 
 ---
@@ -49,26 +50,26 @@
 ## 🚀 Projects
 
 ### 🛒 [Amazon Clone](https://github.com/sumitlucky/amazon-clone)
-- Developed a responsive **Amazon UI Clone** using HTML, CSS, JavaScript.  
-- Implemented product listings, cart, etc.
+- Developed a responsive **Amazon UI Clone** using HTML, CSS, and JavaScript.  
+- Implemented product listings, cart system, and modern e-commerce design.  
 
 ### 🎵 [Spotify Clone](https://github.com/sumitlucky/spotify-clone)
-- Spotify style music player UI with play/pause & navigation.
+- Built a **Spotify-like music player interface** with play/pause and navigation.  
 
 ### 🎥 [TikTok GUI (Python)](https://github.com/sumitlucky/tiktok-gui)
-- Desktop GUI app in Tkinter mimicking short‐video interface.
+- Created a **TikTok-inspired desktop GUI app** using Tkinter.
 
 ### 🧮 [Calculator (Python)](https://github.com/sumitlucky/calculator)
-- Functional calculator GUI in Python.
+- Simple GUI calculator supporting basic arithmetic.  
 
 ### 📊 [Sales Data Analysis (Python)](https://github.com/sumitlucky/sales-analysis)
 - Data analysis using Pandas & Matplotlib.
 
 ### 🪨 [Rock vs Mine Prediction (ML)](https://github.com/sumitlucky/rock-vs-mine-ml)
-- ML model (Logistic Regression) to classify rocks vs mines.
+- Logistic Regression model for rock vs mine classification.
 
 ### 📈 [Superstore Sales Dashboard (Power BI)](https://github.com/sumitlucky/superstore-sales-dashboard)
-- Interactive dashboard visualizing KPIs, categories, trends.
+- Interactive dashboard for revenue, profit and region analysis.
 
 ---
 
