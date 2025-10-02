@@ -39,10 +39,10 @@
 
 ### ☁️ Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate  
 📅 **Issued:** May 29, 2024 | ⏳ **Valid Until:** May 29, 2026  
-🔗 [**View Certificate (PDF)**](https://githubusercontent.com/Sumitlucky/Sumitlucky/main/eCertificate.pdf)  
+🔗 [**View Certificate (PDF)**](https://github.com/Sumitlucky/Sumitlucky/blob/main/eCertificate.pdf)  
 
 <p align="center">
-  <img src="https://githubusercontent.com/Sumitlucky/Sumitlucky/main/eCertificate.png" alt="Oracle Cloud Certificate" width="600px" />
+  <img src="https://github.com/Sumitlucky/Sumitlucky/blob/main/eCertificate.pdf" alt="Oracle Cloud Certificate" width="600px" />
 </p>
 
 ---
