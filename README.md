@@ -1,10 +1,12 @@
-<!-- Reliable background/banner image -->
-![HeaderBanner](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<!-- Background Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/q6fL9hp.gif" alt="Coding Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar Singh</h1>
 <h3 align="center">A passionate Software Engineer and Machine Learning Enthusiast from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Sumitlucky/Sumitlucky/main/profile-banner.png" />
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/0f16a118-5609-432b-95e6-36bfeebc6a52" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sumitlucky&label=Profile%20views&color=0e75b6&style=flat" alt="sumitlucky" /> 
@@ -17,12 +19,11 @@
 
 ## 📜 Certificates  
 
-### 🖥️ C++ Programming Certificate — GeeksforGeeks  
-🔗 [**View Certificate (PDF)**](https://raw.githubusercontent.com/Sumitlucky/Sumitlucky/main/geekforgeeks.pdf)
+### 🥇 GeeksforGeeks — C++ Skill Upgrade Certificate  
+🔗 [**View Certificate (PDF)**](https://github.com/Sumitlucky/Sumitlucky/raw/main/geekforgeeks.pdf)  
 
 <p align="center">
-<!-- If you uploaded geekforgeeks.png to your repo root, this will show. Otherwise this img tag will 404 silently (browser console) -->
-<img src="https://raw.githubusercontent.com/Sumitlucky/Sumitlucky/main/geekforgeeks.png" alt="GeeksforGeeks Certificate" width="600px" />
+  <img src="https://github.com/Sumitlucky/Sumitlucky/raw/main/geekforgeeks.png" alt="GeeksforGeeks C++ Certificate" width="600px" />
 </p>
 
 ---
@@ -31,18 +32,18 @@
 🔗 [**View & Verify Certificate**](https://www.mygreatlearning.com/certificate/VPBRNXWG)  
 
 <p align="center">
-  <!-- If you have certificate image uploaded, replace path accordingly -->
-  <img src="https://raw.githubusercontent.com/Sumitlucky/Sumitlucky/main/certificate.png" alt="Full Stack Developer Certificate" width="600px" />
+  <img src="https://github.com/Sumitlucky/Sumitlucky/raw/main/certificate1.png" alt="Full Stack Developer Certificate" width="600px" />
 </p>
 
 ---
 
 ### ☁️ Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate  
-📅 **Issued:** May 29, 2024 | ⏳ **Valid Until:** May 29, 2026  
-🔗 [**Certificate ID: 100669217OCI23AIFCA (PDF)**](https://raw.githubusercontent.com/Sumitlucky/Sumitlucky/main/eCertificate.pdf)  
+📅 **Issued:** May 29, 2024  
+⏳ **Valid Until:** May 29, 2026  
+🔗 [**Certificate ID: 100669217OCI23AIFCA**](https://github.com/Sumitlucky/Sumitlucky/raw/main/eCertificate.pdf)  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sumitlucky/Sumitlucky/main/eCertificate.png" alt="Oracle Cloud Certificate" width="600px" />
+  <img src="https://github.com/Sumitlucky/Sumitlucky/raw/main/eCertificate.png" alt="Oracle Cloud Certificate" width="600px" />
 </p>
 
 ---
@@ -55,58 +56,83 @@
 
 ### 🎵 [Spotify Clone](https://github.com/sumitlucky/spotify-clone)
 - Built a **Spotify-like music player interface** with play/pause and navigation.  
+- Designed responsive UI for smooth user experience.  
 
 ### 🎥 [TikTok GUI (Python)](https://github.com/sumitlucky/tiktok-gui)
-- Created a **TikTok-inspired desktop GUI app** using Tkinter.
+- Created a **TikTok-inspired desktop GUI app** using Tkinter.  
+- Added short-video style interface and smooth navigation.  
 
 ### 🧮 [Calculator (Python)](https://github.com/sumitlucky/calculator)
-- Simple GUI calculator supporting basic arithmetic.  
+- Designed a simple yet functional **calculator app** using Python.  
+- Supported basic arithmetic operations with clean GUI.  
 
 ### 📊 [Sales Data Analysis (Python)](https://github.com/sumitlucky/sales-analysis)
-- Data analysis using Pandas & Matplotlib.
+- Performed **data analysis on sales dataset** using Pandas & Matplotlib.  
+- Extracted insights on revenue, top products, and regional trends.  
 
-### 🪨 [Rock vs Mine Prediction (ML)](https://github.com/sumitlucky/rock-vs-mine-ml)
-- Logistic Regression model for rock vs mine classification.
+### 🪨 [Rock vs Mine Prediction (Machine Learning)](https://github.com/sumitlucky/rock-vs-mine-ml)
+- Built a **ML classifier** to distinguish between rocks and mines using sonar dataset.  
+- Applied Logistic Regression & evaluated model performance.  
 
 ### 📈 [Superstore Sales Dashboard (Power BI)](https://github.com/sumitlucky/superstore-sales-dashboard)
-- Interactive dashboard for revenue, profit and region analysis.
+- Designed an **interactive sales dashboard** in Power BI.  
+- Visualized KPIs like revenue, profit, top products, and region-wise performance.  
+- Added filters for category, sub-category, and time analysis.  
 
 ---
 
 ## 🌐 Connect with me
 <p align="left">
-<a href="https://twitter.com/sumitkrsingh"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/></a>
-<a href="https://linkedin.com/in/sumit-kumar-singh"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
-<a href="https://fb.com/sumitkrsingh"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/></a>
-<a href="https://instagram.com/maaa_ka_ladalaa"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>
-<a href="https://www.youtube.com/c/maaa_ka_ladalaa"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/></a>
-<a href="https://www.leetcode.com/sumit75410"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>
+<a href="https://twitter.com/sumitkrsingh" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/sumit-kumar-singh" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+<a href="https://fb.com/sumitkrsingh" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+</a>
+<a href="https://instagram.com/maaa_ka_ladalaa" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+</a>
+<a href="https://www.youtube.com/c/maaa_ka_ladalaa" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/sumit75410" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+</a>
 </p>
 
 ---
 
 ## 🛠️ Languages and Tools
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitlucky&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitlucky&show_icons=true&locale=en" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitlucky" alt="GitHub Streak"/>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitlucky&show_icons=true&locale=en&layout=compact" alt="sumitlucky" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitlucky&show_icons=true&locale=en" alt="sumitlucky" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitlucky&" alt="sumitlucky" />
 </p>
