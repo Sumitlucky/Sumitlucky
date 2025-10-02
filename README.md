@@ -19,11 +19,20 @@
 
 ## 📜 Certificates  
 
+### 🥇 GeeksforGeeks — C++ Skill Upgrade Certificate  
+🔗 [**View Certificate (PDF)**](https://github.com/Sumitlucky/Sumitlucky/raw/main/geekforgeeks.pdf)  
+
+<p align="center">
+  <img src="https://github.com/Sumitlucky/Sumitlucky/raw/main/geekforgeeks.png" alt="GeeksforGeeks C++ Certificate" width="600px" />
+</p>
+
+---
+
 ### 🎓 Full Stack Developer Program — Great Learning  
 🔗 [**View & Verify Certificate**](https://www.mygreatlearning.com/certificate/VPBRNXWG)  
 
 <p align="center">
-  <img src="certificate.pdf" alt="Full Stack Developer Certificate" width="600px" />
+  <img src="https://github.com/Sumitlucky/Sumitlucky/raw/main/certificate1.png" alt="Full Stack Developer Certificate" width="600px" />
 </p>
 
 ---
@@ -31,10 +40,10 @@
 ### ☁️ Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate  
 📅 **Issued:** May 29, 2024  
 ⏳ **Valid Until:** May 29, 2026  
-🔗 [**Certificate ID: 100669217OCI23AIFCA**](eCertificate.pdf)  
+🔗 [**Certificate ID: 100669217OCI23AIFCA**](https://github.com/Sumitlucky/Sumitlucky/raw/main/eCertificate.pdf)  
 
 <p align="center">
-  <img src="eCertificate.pdf" alt="Oracle Cloud Certificate" width="600px" />
+  <img src="https://github.com/Sumitlucky/Sumitlucky/raw/main/eCertificate.png" alt="Oracle Cloud Certificate" width="600px" />
 </p>
 
 ---
