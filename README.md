@@ -32,7 +32,7 @@
 🔗 [**View & Verify Certificate**](https://github.com/Sumitlucky/Sumitlucky/blob/main/certificate.pdf)  
 
 <p align="center">
-  <img src="https://githubusercontent.com/Sumitlucky/Sumitlucky/main/certificate1.png" alt="Full Stack Developer Certificate" width="600px" />
+  <img src="https://github.com/Sumitlucky/Sumitlucky/blob/main/certificate.pdf" alt="Full Stack Developer Certificate" width="600px" />
 </p>
 
 ---
