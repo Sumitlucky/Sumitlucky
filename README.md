@@ -1,8 +1,7 @@
-<!-- Coding background banner -->
-![MasterHead](https://i.imgur.com/q6fL9hp.gif)
+<div style="background: url('https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80') no-repeat center center fixed; background-size: cover; padding: 20px;">
 
-<h1 align="center">Hi 👋, I'm Sumit Kumar Singh</h1>
-<h3 align="center">A passionate Software Engineer and Machine Learning Enthusiast from India</h3>
+<h1 align="center" style="color:white">Hi 👋, I'm Sumit Kumar Singh</h1>
+<h3 align="center" style="color:white">A passionate Software Engineer and Machine Learning Enthusiast from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/0f16a118-5609-432b-95e6-36bfeebc6a52" />
 
@@ -16,15 +15,6 @@
 ---
 
 ## 📜 Certificates  
-
-### 🎓 C++ Skill Upgrade — GeeksforGeeks  
-🔗 [**View Certificate (PDF)**](geekforgeeks.pdf)  
-
-<p align="center">
-  <img src="geekforgeeks.png" alt="GeeksforGeeks Certificate" width="600px" />
-</p>
-
----
 
 ### 🎓 Full Stack Developer Program — Great Learning  
 🔗 [**View & Verify Certificate**](https://www.mygreatlearning.com/certificate/VPBRNXWG)  
@@ -42,6 +32,15 @@
 
 <p align="center">
   <img src="eCertificate.pdf" alt="Oracle Cloud Certificate" width="600px" />
+</p>
+
+---
+
+### 🖥️ C++ Programming Certificate — GeeksforGeeks  
+🔗 [**View Certificate**](https://github.com/Sumitlucky/Sumitlucky/raw/main/geekforgeeks.pdf)  
+
+<p align="center">
+  <img src="https://github.com/Sumitlucky/Sumitlucky/raw/main/geekforgeeks.png" alt="GeeksforGeeks C++ Certificate" width="600px" />
 </p>
 
 ---
@@ -134,3 +133,5 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitlucky&" alt="sumitlucky" />
 </p>
+
+</div>
