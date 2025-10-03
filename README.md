@@ -12,7 +12,8 @@
   <img src="https://komarev.com/ghpvc/?username=sumitlucky&label=Profile%20views&color=0e75b6&style=flat" alt="sumitlucky" /> 
 </p>
 
-- 📫 How to reach me **sumitsingh220cpr@gmail.com**  
+- 📫 How to reach me **sumitsingh220cpr@gmail.com**
+- contact no - 7541045604 
 - ⚡ Fun fact **I am funny 😊**
 
 ---
