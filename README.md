@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Coding Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sumit Kumar Singh</h1>
+<h1 align="center">Hello👋, I'm Sumit Kumar Singh</h1>
 <h3 align="center">A passionate Software Engineer and Machine Learning Enthusiast from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/0f16a118-5609-432b-95e6-36bfeebc6a52" />
