@@ -4,8 +4,8 @@
 </p>
 
 <h1 align="center">Hello👋, I'm Sumit Kumar Singh</h1>
-<h3 align="center">A Passionate Software Engineer , Pyhton Developer and Machine Learning Enthusiast from India</h3>
-<h3 align="center"> I am a Hard Working and carefully person for do your work </h3>
+<h3 align="center">A Passionate Software Engineer, Python Developer and Machine Learning Enthusiast from India</h3>
+<h3 align="center">I am a Hard Working and Careful Person Who Loves Doing Great Work</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/0f16a118-5609-432b-95e6-36bfeebc6a52" />
 
@@ -13,8 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=sumitlucky&label=Profile%20views&color=0e75b6&style=flat" alt="sumitlucky" /> 
 </p>
 
-- 📫 How to reach me **sumitsingh220cpr@gmail.com**
-- 📞 Contact no - **7541045604**
+- 📫 How to reach me **sumitsingh220cpr@gmail.com**  
+- 📞 Contact no - **7541045604**  
 - ⚡ Fun fact **I am funny 😊**
 
 ---
@@ -90,24 +90,24 @@
 
 ## 🌐 Connect with me
 <p align="center">
-<a href="https://twitter.com/sumitkrsingh" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="40" />
-</a>
-<a href="[https://linkedin.com/in/sumit-kumar-singh]" target="blank">
-  <img align="center" src="https://www.linkedin.com/in/sumit-kumar-singh-" alt="linkedin" height="40" width="40" />
-</a>
-<a href="https://fb.com/sumitkrsingh" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="40" width="40" />
-</a>
-<a href="https://instagram.com/maaa_ka_ladalaa" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" />
-</a>
-<a href="https://www.youtube.com/c/maaa_ka_ladalaa" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="40" width="40" />
-</a>
-<a href="https://www.leetcode.com/sumit75410" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="40" />
-</a>
+  <a href="https://twitter.com/sumitkrsingh" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/sumit-kumar-singh-" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
+  </a>
+  <a href="https://fb.com/sumitkrsingh" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="40" width="40" />
+  </a>
+  <a href="https://instagram.com/maaa_ka_ladalaa" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/maaa_ka_ladalaa" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="40" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/sumit75410" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="40" />
+  </a>
 </p>
 
 ---
