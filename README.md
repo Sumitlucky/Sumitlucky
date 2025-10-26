@@ -94,7 +94,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="40" />
 </a>
 <a href="[https://linkedin.com/in/sumit-kumar-singh]" target="blank">
-  <img align="center" src="https://www.linkedin.com/in/sumit-kumar-singh-aa7649240/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQTFLZUDcSjGq1h2XeuUnaA%3D%3D" alt="linkedin" height="40" width="40" />
+  <img align="center" src="https://www.linkedin.com/in/sumit-kumar-singh-" alt="linkedin" height="40" width="40" />
 </a>
 <a href="https://fb.com/sumitkrsingh" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="40" width="40" />
