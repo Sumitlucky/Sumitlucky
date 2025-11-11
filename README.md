@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sumitsingh220cpr@gmail.com**  
 - 📞 Contact no - **7541045604**  
-- ⚡ Fun fact **I am funny  **
+- ⚡ Fun fact **I am funny **
 
 ---
 
