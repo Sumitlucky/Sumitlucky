@@ -21,7 +21,7 @@
 
 ## 📄 Resume  
 
-🔗 [**View / Download My Resume**](https://github.com/Sumitlucky/resume/blob/main/sumit%20full%20stack%20developer.pdf)  
+🔗 [**View / Download My Resume**](https://github.com/Sumitlucky/resume/blob/main/sumit%20kumar%20singh.pdf)  
 
 ---
 
