@@ -32,7 +32,7 @@
 🔗 [**View Internship Certificate (PDF)**](https://github.com/Sumitlucky/certifiacate/blob/main/internship%20certificate.pdf)
 
 <p align="center">
-  <img src="https://github.com/Sumitlucky/internship-certificate/blob/main/internship_certificate.png" alt="Internship Certificate" width="600px" />
+  <img src="https://github.com/Sumitlucky/certifiacate/blob/main/internship%20certificate.pdf" alt="Internship Certificate" width="600px" />
 </p>
 
 ---
