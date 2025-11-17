@@ -24,6 +24,7 @@
 🔗 [**View / Download My Resume**](https://github.com/Sumitlucky/resume/blob/main/sumit%20kumar%20singh.pdf)  
 
 ---
+## 📜 Certificates  
 
 ## 🎓 Internship Certificate  
 
@@ -37,8 +38,6 @@
 
 ---
 
-
-## 📜 Certificates  
 
 ### 🥇 GeeksforGeeks — C++ Skill Upgrade Certificate  
 🔗 [**View Certificate (PDF)**](https://github.com/Sumitlucky/Sumitlucky/blob/main/geekforgeeks.pdf)  
