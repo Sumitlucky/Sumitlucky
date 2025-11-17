@@ -25,6 +25,19 @@
 
 ---
 
+## 🎓 Internship Certificate  
+
+### 🏢 Unified Mentor – Data Analyst Intern  
+📅 **Duration:** 6 Months  
+🔗 [**View Internship Certificate (PDF)**](https://github.com/Sumitlucky/certifiacate/blob/main/internship%20certificate.pdf)
+
+<p align="center">
+  <img src="https://github.com/Sumitlucky/internship-certificate/blob/main/internship_certificate.png" alt="Internship Certificate" width="600px" />
+</p>
+
+---
+
+
 ## 📜 Certificates  
 
 ### 🥇 GeeksforGeeks — C++ Skill Upgrade Certificate  
