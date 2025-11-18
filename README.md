@@ -69,7 +69,7 @@
 
 # 🚀 Projects
 
-## 🧠 Machine Learning Projects (Newly Added)
+## 🧠 Machine Learning Projects
 
 ### 🔹 Predicting Loan Payback (Kaggle Dataset)
 🔗 **Repo:** https://github.com/Sumitlucky/Predicting-Loan-Payback-machine-learning-kaggle-dataset-  
