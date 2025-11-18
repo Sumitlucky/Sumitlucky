@@ -83,8 +83,6 @@
 🔗 **Repo:** https://github.com/Sumitlucky/Titanic---Machine-Learning-from-Disaster  
 - Applied ML models to predict Titanic passenger survival with feature engineering.
 
----
-
 ### 🛒 [Amazon Clone](https://github.com/sumitlucky/amazon-clone)
 - Responsive Amazon UI Clone using HTML, CSS & JavaScript.  
 - Product listings, cart system & modern UI.  
