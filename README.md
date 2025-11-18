@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sumitsingh220cpr@gmail.com**  
 - 📞 Contact no - **7541045604**  
-- ⚡ Fun fact **I am funny **
+- ⚡ Fun fact **I am funny**
 
 ---
 
@@ -24,6 +24,7 @@
 🔗 [**View / Download My Resume**](https://github.com/Sumitlucky/resume/blob/main/sumit%20kumar%20singh.pdf)  
 
 ---
+
 ## 📜 Certificates  
 
 ## 🎓 Internship Certificate  
@@ -37,7 +38,6 @@
 </p>
 
 ---
-
 
 ### 🥇 GeeksforGeeks — C++ Skill Upgrade Certificate  
 🔗 [**View Certificate (PDF)**](https://github.com/Sumitlucky/Sumitlucky/blob/main/geekforgeeks.pdf)  
@@ -67,58 +67,70 @@
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
+
+## 🧠 Machine Learning Projects (Newly Added)
+
+### 🔹 Predicting Loan Payback (Kaggle Dataset)
+🔗 **Repo:** https://github.com/Sumitlucky/Predicting-Loan-Payback-machine-learning-kaggle-dataset-  
+- A Kaggle-based ML project predicting loan payback using advanced models and feature engineering.
+
+### 🔹 CSIRO – Image2Biomass Prediction
+🔗 **Repo:** https://github.com/Sumitlucky/CSIRO---Image2Biomass-Prediction-machine-learning-  
+- Predicts biomass from image data as part of the CSIRO Image2Biomass challenge.
+
+### 🔹 Titanic – Machine Learning From Disaster
+🔗 **Repo:** https://github.com/Sumitlucky/Titanic---Machine-Learning-from-Disaster  
+- Applied ML models to predict Titanic passenger survival with feature engineering.
+
+---
 
 ### 🛒 [Amazon Clone](https://github.com/sumitlucky/amazon-clone)
-- Developed a responsive **Amazon UI Clone** using HTML, CSS, and JavaScript.  
-- Implemented product listings, cart system, and modern e-commerce design.  
+- Responsive Amazon UI Clone using HTML, CSS & JavaScript.  
+- Product listings, cart system & modern UI.  
 
 ### 🎵 [Spotify Clone](https://github.com/sumitlucky/spotify-clone)
-- Built a **Spotify-like music player interface** with play/pause and navigation.  
-- Designed responsive UI for smooth user experience.  
+- Spotify-like music UI with play/pause & navigation.  
+- Fully responsive layout.  
 
 ### 🎥 [TikTok GUI (Python)](https://github.com/sumitlucky/tiktok-gui)
-- Created a **TikTok-inspired desktop GUI app** using Tkinter.  
-- Added short-video style interface and smooth navigation.  
+- TikTok-style GUI app using Tkinter.  
+- Smooth video-like navigation.  
 
 ### 🧮 [Calculator (Python)](https://github.com/sumitlucky/calculator)
-- Designed a simple yet functional **calculator app** using Python.  
-- Supported basic arithmetic operations with clean GUI.  
+- Functional calculator built with Python GUI.  
 
 ### 📊 [Sales Data Analysis (Python)](https://github.com/sumitlucky/sales-analysis)
-- Performed **data analysis on sales dataset** using Pandas & Matplotlib.  
-- Extracted insights on revenue, top products, and regional trends.  
+- Sales dataset analysis using Pandas & Matplotlib.  
+- Insights, revenue patterns & trends.  
 
 ### 🪨 [Rock vs Mine Prediction (Machine Learning)](https://github.com/sumitlucky/rock-vs-mine-ml)
-- Built a **ML classifier** to distinguish between rocks and mines using sonar dataset.  
-- Applied Logistic Regression & evaluated model performance.  
+- Logistic Regression model to classify rocks vs mines using sonar dataset.  
 
 ### 📈 [Superstore Sales Dashboard (Power BI)](https://github.com/sumitlucky/superstore-sales-dashboard)
-- Designed an **interactive sales dashboard** in Power BI.  
-- Visualized KPIs like revenue, profit, top products, and region-wise performance.  
-- Added filters for category, sub-category, and time analysis.  
+- Interactive Power BI dashboard with KPIs, filters & graphs.  
 
 ---
 
 ## 🌐 Connect with me
 <p align="center">
   <a href="https://twitter.com/sumitkrsingh" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/sumit-kumar-singh-aa7649240" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
   </a>
   <a href="https://fb.com/sumitkrsingh" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" />
   </a>
   <a href="https://instagram.com/maaa_ka_ladalaa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" />
   </a>
   <a href="https://www.youtube.com/c/maaa_ka_ladalaa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="40" width="40" />
   </a>
   <a href="https://www.leetcode.com/sumit75410" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" />
   </a>
 </p>
 
@@ -126,7 +138,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumitlucky&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sumitlucky&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
@@ -147,10 +159,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumitlucky&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitlucky&theme=tokyonight" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumitlucky&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitlucky&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitlucky&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitlucky&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </p>
