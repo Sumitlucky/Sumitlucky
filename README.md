@@ -1,10 +1,17 @@
- <!-- Banner -->
+<!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Coding Banner" width="100%" />
 </p>
-<h1 align="center">Hii,I'm Sumit Kumar Singh </h1>
-<h3 align="center">A Passionate Software Engineer, Python Developer, I am a trainer, I train data science and machine learning students from India </h3>
-<h3 align="center">I am a Hard Working and Careful Person Who Loves Doing Great Work</h3>
+
+<h1 align="center">Hi 👋, I'm Sumit Kumar Singh</h1>
+
+<h3 align="center">
+Machine Learning & Business Analytics Trainee | Computer Science Engineer | Python & Data Analytics Enthusiast
+</h3>
+
+<h4 align="center">
+Passionate about turning data into insights and solving real-world problems through analytics and machine learning.
+</h4>
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/0f16a118-5609-432b-95e6-36bfeebc6a52" />
 
@@ -12,122 +19,99 @@
   <img src="https://komarev.com/ghpvc/?username=sumitlucky&label=Profile%20views&color=0e75b6&style=flat" alt="sumitlucky" /> 
 </p>
 
-- 📫 How to reach me **sumitsingh220cpr@gmail.com**  
-- 📞 Contact no - **7541045604**  
-- ⚡ Fun fact **I am funny**
+---
+
+## 👨‍💼 About Me
+
+- 🎓 **CSE Final Year Student** (Anna University, Chennai)  
+- 🏢 **Machine Learning & Business Analytics Trainee at Enack Private Limited**  
+- 📊 Interested in **Data Analytics, Machine Learning & Business Intelligence**  
+- 🧠 Strong foundation in **Python, SQL, Excel, Power BI**  
+- 🚀 Always eager to learn, improve, and work on real-world datasets  
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **sumitsingh220cpr@gmail.com**  
+- 📞 Phone: **7541045604**  
 
 ---
 
 ## 📄 Resume  
-
-🔗 [**View / Download My Resume**](https://github.com/Sumitlucky/resume/blob/main/sumit%20kumar%20singh.pdf)  
+🔗 [View / Download Resume](https://github.com/Sumitlucky/resume/blob/main/sumit%20kumar%20singh.pdf)
 
 ---
 
-## 📜 Certificates  
+## 🎓 Certifications & Internship
 
-## 🎓 Internship Certificate  
+### 🏢 Unified Mentor — Data Analyst Intern  
+📅 Duration: **6 Months**  
+🔗 [View Certificate](https://github.com/Sumitlucky/certifiacate/blob/main/internship%20certificate.pdf)
 
-### 🏢 Unified Mentor – Data Analyst Intern  
-📅 **Duration:** 6 Months  
-🔗 [**View Internship Certificate (PDF)**](https://github.com/Sumitlucky/certifiacate/blob/main/internship%20certificate.pdf)
+### ☁️ Oracle Cloud Infrastructure – AI Foundations Associate  
+📅 Issued: May 2024 | Valid Till: May 2026  
+🔗 [View Certificate](https://github.com/Sumitlucky/Sumitlucky/blob/main/eCertificate.pdf)
 
-<p align="center">
-  <img src="https://github.com/Sumitlucky/certifiacate/blob/main/internship%20certificate.pdf" alt="Internship Certificate" width="600px" />
+### 🥇 GeeksforGeeks — C++ Skill Upgrade  
+🔗 [View Certificate](https://github.com/Sumitlucky/Sumitlucky/blob/main/geekforgeeks.pdf)
+
+### 🎓 Full Stack Developer — Great Learning  
+🔗 [View Certificate](https://github.com/Sumitlucky/Sumitlucky/blob/main/certificate.pdf)
+
+---
+
+## 🚀 Projects
+
+### 🧠 Machine Learning & Data Analytics
+
+- 🔹 **Predicting Loan Payback (Kaggle)**  
+  Python, Pandas, ML models, Feature Engineering  
+  🔗 https://github.com/Sumitlucky/Predicting-Loan-Payback-machine-learning-kaggle-dataset-
+
+- 🔹 **CSIRO – Image2Biomass Prediction**  
+  Image-based ML prediction challenge  
+  🔗 https://github.com/Sumitlucky/CSIRO---Image2Biomass-Prediction-machine-learning-
+
+- 🔹 **Titanic Survival Prediction**  
+  ML classification with feature engineering  
+  🔗 https://github.com/Sumitlucky/Titanic---Machine-Learning-from-Disaster
+
+- 🔹 **Rock vs Mine Prediction**  
+  Logistic Regression on sonar dataset  
+  🔗 https://github.com/Sumitlucky/rock-vs-mine-ml
+
+- 📊 **Sales Data Analysis (Python)**  
+  Pandas, Matplotlib, insights & trends  
+  🔗 https://github.com/sumitlucky/sales-analysis
+
+- 📈 **Superstore Sales Dashboard (Power BI)**  
+  KPIs, slicers & interactive visuals  
+  🔗 https://github.com/sumitlucky/superstore-sales-dashboard
+
+### 🌐 Web & Python Projects
+
+- 🛒 Amazon Clone — HTML, CSS, JavaScript  
+- 🎵 Spotify Clone — Responsive UI  
+- 🎥 TikTok GUI — Python (Tkinter)  
+- 🧮 Calculator — Python GUI  
+
+---
+
+## 🛠️ Languages & Tools
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,react,mysql,mongodb,pandas,tensorflow,git,github,vscode" />
 </p>
 
 ---
 
-### 🥇 GeeksforGeeks — C++ Skill Upgrade Certificate  
-🔗 [**View Certificate (PDF)**](https://github.com/Sumitlucky/Sumitlucky/blob/main/geekforgeeks.pdf)  
-
+## 🌐 Connect With Me
 <p align="center">
-  <img src="https://github.com/Sumitlucky/Sumitlucky/blob/main/geekforgeeks.pdf" alt="GeeksforGeeks Certificate" width="600px" />
-</p>
-
----
-
-### 🎓 Full Stack Developer Program — Great Learning  
-🔗 [**View & Verify Certificate**](https://github.com/Sumitlucky/Sumitlucky/blob/main/certificate.pdf)  
-
-<p align="center">
-  <img src="https://github.com/Sumitlucky/Sumitlucky/blob/main/certificate.pdf" alt="Full Stack Developer Certificate" width="600px" />
-</p>
-
----
-
-### ☁️ Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate  
-📅 **Issued:** May 29, 2024 | ⏳ **Valid Until:** May 29, 2026  
-🔗 [**View Certificate (PDF)**](https://github.com/Sumitlucky/Sumitlucky/blob/main/eCertificate.pdf)  
-
-<p align="center">
-  <img src="https://github.com/Sumitlucky/Sumitlucky/blob/main/eCertificate.pdf" alt="Oracle Cloud Certificate" width="600px" />
-</p>
-
----
-
-# 🚀 Projects
-
-## 🧠 Machine Learning Projects
-
-### 🔹 Predicting Loan Payback (Kaggle Dataset)
-🔗 **Repo:** https://github.com/Sumitlucky/Predicting-Loan-Payback-machine-learning-kaggle-dataset-  
-- A Kaggle-based ML project predicting loan payback using advanced models and feature engineering.
-
-### 🔹 CSIRO – Image2Biomass Prediction
-🔗 **Repo:** https://github.com/Sumitlucky/CSIRO---Image2Biomass-Prediction-machine-learning-  
-- Predicts biomass from image data as part of the CSIRO Image2Biomass challenge.
-
-### 🔹 Titanic – Machine Learning From Disaster
-🔗 **Repo:** https://github.com/Sumitlucky/Titanic---Machine-Learning-from-Disaster  
-- Applied ML models to predict Titanic passenger survival with feature engineering.
-
-### 🛒 [Amazon Clone](https://github.com/sumitlucky/amazon-clone)
-- Responsive Amazon UI Clone using HTML, CSS & JavaScript.  
-- Product listings, cart system & modern UI.  
-
-### 🎵 [Spotify Clone](https://github.com/sumitlucky/spotify-clone)
-- Spotify-like music UI with play/pause & navigation.  
-- Fully responsive layout.  
-
-### 🎥 [TikTok GUI (Python)](https://github.com/sumitlucky/tiktok-gui)
-- TikTok-style GUI app using Tkinter.  
-- Smooth video-like navigation.  
-
-### 🧮 [Calculator (Python)](https://github.com/sumitlucky/calculator)
-- Functional calculator built with Python GUI.  
-
-### 📊 [Sales Data Analysis (Python)](https://github.com/sumitlucky/sales-analysis)
-- Sales dataset analysis using Pandas & Matplotlib.  
-- Insights, revenue patterns & trends.  
-
-### 🪨 [Rock vs Mine Prediction (Machine Learning)](https://github.com/sumitlucky/rock-vs-mine-ml)
-- Logistic Regression model to classify rocks vs mines using sonar dataset.  
-
-### 📈 [Superstore Sales Dashboard (Power BI)](https://github.com/sumitlucky/superstore-sales-dashboard)
-- Interactive Power BI dashboard with KPIs, filters & graphs.  
-
----
-
-## 🌐 Connect with me
-<p align="center">
-  <a href="https://twitter.com/sumitkrsingh" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40" />
-  </a>
   <a href="https://www.linkedin.com/in/sumit-kumar-singh-aa7649240" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
-  </a>
-  <a href="https://fb.com/sumitkrsingh" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" />
-  </a>
-  <a href="https://instagram.com/maaa_ka_ladalaa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/maaa_ka_ladalaa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" />
   </a>
   <a href="https://www.leetcode.com/sumit75410" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" />
   </a>
 </p>
 
@@ -140,20 +124,6 @@
 
 ---
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitlucky&bg_color=0d1117&color=38bdae&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</p>
-
----
-
-## 🛠️ Languages and Tools
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,react,mysql,mongodb,pandas,tensorflow,git,github,vscode" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumitlucky&show_icons=true&theme=tokyonight" />
@@ -161,5 +131,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitlucky&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitlucky&layout=compact&theme=tokyonight" />
 </p>
