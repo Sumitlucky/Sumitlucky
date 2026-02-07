@@ -10,7 +10,7 @@ Machine Learning & Business Analytics Trainee | Computer Science Engineer | Pyth
 </h3>
 
 <h4 align="center">
-Passionate about turning data into insights and solving real-world problems through analytics and machine learning.
+Passionate about turning data into insights and solving real-world problems through analytics and machine learning.  
 </h4>
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/0f16a118-5609-432b-95e6-36bfeebc6a52" />
