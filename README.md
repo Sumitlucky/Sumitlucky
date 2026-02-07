@@ -19,7 +19,6 @@ Passionate about turning data into insights and solving real-world problems thro
   <img src="https://komarev.com/ghpvc/?username=sumitlucky&label=Profile%20views&color=0e75b6&style=flat" alt="sumitlucky" /> 
 </p>
 
----
 
 ## 👨‍💼 About Me
 
