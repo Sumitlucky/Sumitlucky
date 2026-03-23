@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar Singh </h1>
 
 <h3 align="center">
-Machine Learning & Business Analytics Trainee | Computer Science Engineer | Python & Data Analytics Enthusiast
+Machine Learning & Business Analytics Trainee | Computer Science Engineer | Python & Data Analytics Enthusiast 
 </h3>
 
 <h4 align="center">
