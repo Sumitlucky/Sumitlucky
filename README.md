@@ -38,7 +38,7 @@ Passionate about turning data into insights and solving real-world problems thro
 ---
 
 ## 📄 Resume  
-🔗 [View / Download Resume](https://github.com/Sumitlucky/resume/blob/main/sumit%20kumar%20singh.pdf)
+🔗 [View / Download Resume](https://github.com/Sumitlucky/resume/blob/main/Sumit%20resume.pdf)
 
 ---
 
